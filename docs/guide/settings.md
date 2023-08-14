@@ -1,7 +1,7 @@
 # 基本设定
 ## 使用的服务器核心
-**本服务器采用的是[Augustus](https://GitHub.com/SkydomGroup/Augustus)核心** <br>
-**核心关系为 Augustus > Paper > Spigot > CraftBukkit > vanilla!** <br>
+**本服务器采用的是[Augustus](https://GitHub.com/SkydomGroup/Augustus)核心。** <br>
+**核心关系为"Augustus > Paper > Spigot > CraftBukkit > vanilla!"。** <br>
 **即基于Paper修改后的服务器核心，与Paper有所不同的地方如下。**
 > 1.开启了刷沙机 <br>
 > 2.修复了刷线机 <br>
@@ -18,7 +18,7 @@
 ## 实体生成
 **我们虽然降低了视距和实体的计算距离，但是我们显著提升了玩家附近区块的刷怪效率。**
 ## 领地
-**我们创建领地的工具设置为木锄头，最大领地范围为512×512(X×Z)，高度不限(-64~328均可)**
+**我们创建领地的工具设置为木锄头，最大领地范围为512×512(X×Z)，高度不限(-64~328均可)。**
 ## 可出售给服务器的物品
 | 物品    | 价格   |
 |-------|------|
