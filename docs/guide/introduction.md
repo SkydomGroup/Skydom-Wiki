@@ -21,4 +21,4 @@
 | 联系方式     | QQ频道: https://pd.qq.com/s/ezzxi1mtb |
 | 服务器IP/域名 | Play.Skydom.org                     |
 
-**我们强烈建议您加入我们的[QQ频道](https://pd.qq.com/s/ezzxi1mtb)而不是QQ群。在QQ频道中，您可以更好地反馈建议、举报玩家、一起游玩、共享物资、获取服务器更新日志等信息！**
+**我们强烈建议您加入我们的[QQ频道](https://pd.qq.com/s/ezzxi1mtb)而不是QQ群。在QQ频道中，您可以更好地反馈建议、举报玩家、一起游玩、共享物资、获取服务器更新日志等！**
