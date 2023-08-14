@@ -4,7 +4,7 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
-import { getDirname, path } from '@vuepress/utils'
+import { path } from '@vuepress/utils'
 
 
 export default defineUserConfig({
