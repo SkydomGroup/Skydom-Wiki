@@ -4,7 +4,7 @@
 本服不是生电服，机器请勿过于密集，否则后果自负！
 :::
 **本服务器采用的是[Augustus](https://GitHub.com/SkydomGroup/Augustus)核心。** <br>
-**核心关系为"Augustus > Paper > Spigot > CraftBukkit > vanilla!"。** <br>
+**核心关系为"Augustus > Paper > Spigot > CraftBukkit > Vanilla"。** <br>
 **即基于Paper修改后的服务器核心，与Paper有所不同的地方如下。**
 > 1.开启了重力方块复制特性 <br>
 > 2.修复了刷线机 <br>
