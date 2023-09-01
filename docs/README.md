@@ -34,7 +34,7 @@ footer: Copyright © 2023 Skydom - Powered by Vuepress
 
 **Skydom是一个公益服务器，只接受无偿赞助，如果你想赞助我们，请点击下方链接，您的支持是我们最大的动力！**
 
-支持我们：[爱发电](https://afdian.net/@Skydom)
+支持我们：[爱发电](https://afdian.net/a/Chosen_1st)
 
 非常感谢您对我们的支持！
 
