@@ -1,6 +1,7 @@
 ---
 home: true
-footer: Copyright © 2023 Skydom - Powered by Vuepress
+footerHtml: true
+footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725号</a></br>Copyright © 2023 Skydom - Powered by Vuepress
 ---
 
 ::: warning 注意
