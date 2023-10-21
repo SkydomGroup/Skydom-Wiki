@@ -44,6 +44,6 @@ footer: Copyright © 2023 Skydom - Powered by Vuepress
 
 <html>
 <center>
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.skydom.org/embed" width="728" height="90"></iframe>
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.Skydom.cc/embed" width="728" height="90"></iframe>
 </center>
 </html>

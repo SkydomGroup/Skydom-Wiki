@@ -19,7 +19,7 @@
 | 最大在线人数   | 514                                 |
 | 有无白名单    | 无                                   |
 | 联系方式     | QQ频道: https://pd.qq.com/s/ezzxi1mtb |
-| 服务器IP/域名 | Play.Skydom.org                     |
+| 服务器IP/域名 | Play.Skydom.cc                     |
 ::: warning 注意
 离线用户需要在你的ID前面加#。举个例子，假设我的ID是Player，那么加#后的ID就是#Player。
 :::

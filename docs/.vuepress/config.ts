@@ -17,7 +17,7 @@ export default defineUserConfig({
         navbar: [
             { text: '首页', link: '/' },
             { text: '玩家手册', children: [ {text: '简单介绍', link: '/guide/introduction.html'}, {text: '基本设定', link: '/guide/settings.html'}, {text: '指令列表', link: '/guide/command.html'}, {text: '常见问题', link: '/guide/faq.html'} ] },
-            { text: '相关链接', children: [ {text: '官方网站', link: 'https://www.Skydom.org'}, {text: 'QQ频道', link: 'https://pd.qq.com/s/ezzxi1mtb'}, {text: 'MCBBS', link: 'https://www.mcbbs.net/thread-1454867-1-1.html'}, {text: 'GitHub', link: 'https://GitHub.com/SkydomGroup/'}, {text: 'Minecraft Wiki', link: 'https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki'} ]}
+            { text: '相关链接', children: [ {text: '官方网站', link: 'https://www.Skydom.cc'}, {text: 'QQ频道', link: 'https://pd.qq.com/s/ezzxi1mtb'}, {text: 'MCBBS', link: 'https://www.mcbbs.net/thread-1454867-1-1.html'}, {text: 'GitHub', link: 'https://GitHub.com/SkydomGroup/'}, {text: 'Minecraft Wiki', link: 'https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki'} ]}
         ],
         sidebar: {
             '/guide/': [ 'introduction', 'settings', 'command', 'faq' ],
