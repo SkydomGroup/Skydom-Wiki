@@ -6,7 +6,6 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { path } from '@vuepress/utils'
 
-
 export default defineUserConfig({
     lang: 'zh-CN',
     title: 'Skydom Wiki 主页',
