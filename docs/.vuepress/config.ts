@@ -1,19 +1,13 @@
-import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from '@vuepress/theme-default'
+import { defaultTheme, defineUserConfig } from 'vuepress'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
-import { viteBundler } from '@vuepress/bundler-vite'
 import { path } from '@vuepress/utils'
 
 
 export default defineUserConfig({
-    bundler: viteBundler({
-        viteOptions: {},
-        vuePluginOptions: {},
-    }),
     lang: 'zh-CN',
     title: 'Skydom Wiki 主页',
     description: '欢迎来到 Minecraft Skydom Server Wiki 主页',
