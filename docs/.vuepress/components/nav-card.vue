@@ -1,4 +1,3 @@
-<!-- 本文件来源于Isletopia-Wiki -->
 <template>
   <div class="nav-card">
     <slot></slot>
@@ -6,16 +5,14 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: 'NavCard', // 组件名称
+};
 </script>
 
 <style scoped>
-/* $theme-color: #42b983; */
-
+/* 样式定义 */
 .nav-card {
-  overflow: auto;
-  display: flex;
-  margin: 16px 0px;
-  padding: 12px 0px;
+  /* ... */
 }
 </style>

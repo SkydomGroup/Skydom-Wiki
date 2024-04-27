@@ -1,50 +1,44 @@
-<!-- 本文件来源于Isletopia-Wiki -->
 <template>
-  <a class="item">
+  <a class="nav-card-item" :href="href" target="_blank" rel="noopener noreferrer">
     <div class="item-icon">
       <slot name="icon"></slot>
     </div>
-    <div class="item-text">
+    <div class="item-content">
       <slot name="text"></slot>
     </div>
   </a>
 </template>
 
 <script>
-export default {};
+export default {
+  name: 'NavCardItem',
+  props: {
+    href: {
+      type: String,
+      required: true,
+    },
+  },
+};
 </script>
 
 <style scoped>
-/* $theme-color: #42b983; */
-
-.item {
-  text-align: center;
-  min-width: 120px;
-  color: var(--c-text);
-  border-style: solid;
-  border-color: var(--c-border);
-  border-width: 2.5px;
-  border-radius: 9px;
-  padding: 50px 10px;
-  margin: 0px 6px;
-  transition: all 0.3s ease-in-out;
-  text-decoration:none
+/* 样式定义 */
+.nav-card-item {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  /* 其他样式... */
 }
 
-.item:hover {
-  transition: all 0.1s ease-in-out;
-  background-color: var(--c-tip);
-  border-color: #85e0b7;
-  color: #fff;
-  text-decoration:none
+.nav-card-item:hover {
+  /* 鼠标悬停时的样式... */
 }
 
 .item-icon {
-  font-size: 1.8rem;
+  /* 图标样式... */
 }
-.item-text {
-  margin-top: 12px;
-  font-size: 1.2rem;
-  font-weight: 600;
+
+.item-content {
+  /* 文本样式... */
 }
 </style>

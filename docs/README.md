@@ -1,16 +1,37 @@
 ---
 home: true
+actions:
+  - text: 开始阅读
+    link: /guide/introduction.html
+    type: primary
 footerHtml: true
-footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725号</a></br>Copyright © 2023 Skydom - Powered by Vuepress
+footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725号</a></br>Copyright © 2024 Skydom - Powered by Vuepress
 ---
+
+<!--<style>
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container img {
+    max-width: 100%; /* 确保图片不会超过其容器 */
+    height: auto; /* 保持图片的宽高比 */
+    width: 300px; /* 设置图片宽度 */
+}
+</style>
+<div class="container">
+  <img src="/images/Skydom.png" alt="Your Image">
+</div>-->
 
 ::: warning 注意
 我们的 Wiki 正在完善中......
 :::
-
+<!--
 ## 🧭 常用导航
 
-<html>
+<html lang="">
   <nav-card>
     <nav-card-item href="guide/introduction.html">
         <template v-slot:icon>😄</template>
@@ -29,7 +50,7 @@ footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725
       <template v-slot:text>常见问题</template>
     </nav-card-item>
   </nav-card>
-</html>
+</html>-->
 
 ## 💖 支持我们
 
@@ -43,8 +64,8 @@ footer: <a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2023027725
 
 ## 💡 服务器状态
 
-<html>
-<center>
+<html lang="">
+<div style="text-align: center;">
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.Skydom.cc/embed" width="728" height="90"></iframe>
-</center>
+</div>
 </html>
