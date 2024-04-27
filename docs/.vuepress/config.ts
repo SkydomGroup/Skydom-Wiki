@@ -8,6 +8,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 export default defineUserConfig({
+  head:[["link", { rel: "icon", href: "/favicons.ico" }]],
   bundler: viteBundler(),
   description: '欢迎来到 Minecraft Skydom Server Wiki 主页',
   lang: 'zh-CN',
